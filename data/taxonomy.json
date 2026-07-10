@@ -1,0 +1,4452 @@
+[
+  {
+    "industry": "Agriculture",
+    "category": "Agricultural Education & Consulting",
+    "subcategory": "Agricultural Consultant - Sustainability"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Agricultural Education & Consulting",
+    "subcategory": "Farm Business Planner"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Agricultural Technology",
+    "subcategory": "Drone Operator - Crop Monitoring"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Agricultural Technology",
+    "subcategory": "Precision Agriculture Specialist"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Farming & Crop Services",
+    "subcategory": "Crop Consultant - Organic Farming"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Farming & Crop Services",
+    "subcategory": "Farm Hand - Seasonal"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Farming & Crop Services",
+    "subcategory": "Greenhouse Technician"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Horticulture & Landscaping",
+    "subcategory": "Arborist - Tree Health"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Horticulture & Landscaping",
+    "subcategory": "Gardener - Produce Garden"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Livestock & Animal Husbandry",
+    "subcategory": "Livestock Caretaker - Farm Animals"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Livestock & Animal Husbandry",
+    "subcategory": "Veterinary Assistant - Mobile"
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Murals & Street Art"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Painter - Landscapes"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Painter - Portraits"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Printmaker"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Sculptor - Clay"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Fine Art",
+    "subcategory": "Sculptor - Metal"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Book Cover Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Brand Identity Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Logo Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Packaging Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Poster Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Presentation Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Graphic Design",
+    "subcategory": "Social Media Graphic Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Illustration",
+    "subcategory": "Children's Book Illustrator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Illustration",
+    "subcategory": "Concept Artist"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Illustration",
+    "subcategory": "Digital Illustrator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Illustration",
+    "subcategory": "Fashion Illustrator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Illustration",
+    "subcategory": "Technical Illustrator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Interior & Spatial Design",
+    "subcategory": "Exhibition Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Interior & Spatial Design",
+    "subcategory": "Interior Designer - Commercial"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Interior & Spatial Design",
+    "subcategory": "Interior Designer - Residential"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Motion Graphics & Animation",
+    "subcategory": "2D Animator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Motion Graphics & Animation",
+    "subcategory": "3D Animator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Motion Graphics & Animation",
+    "subcategory": "Explainer Video Animator"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Motion Graphics & Animation",
+    "subcategory": "Motion Graphics Artist - After Effects"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Product Design",
+    "subcategory": "Footwear Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Product Design",
+    "subcategory": "Industrial Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Product Design",
+    "subcategory": "Jewelry Designer - CAD"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Web & UI/UX Design",
+    "subcategory": "Landing Page Designer"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Web & UI/UX Design",
+    "subcategory": "UI Designer - Mobile App"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Web & UI/UX Design",
+    "subcategory": "UX Designer - User Flows"
+  },
+  {
+    "industry": "Art & Design",
+    "category": "Web & UI/UX Design",
+    "subcategory": "Website Designer - Figma"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "AV Equipment & Setup",
+    "subcategory": "AV Installer - Residential"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "AV Equipment & Setup",
+    "subcategory": "AV Technician - Corporate Events"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "AV Equipment & Setup",
+    "subcategory": "Stage Manager - AV"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Audio Restoration Specialist"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Mastering Engineer - Music"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Mixing Engineer - Studio"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Podcast Editor"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Sound Designer - Film"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Sound Engineer - Live Events"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Audio Production",
+    "subcategory": "Voiceover Artist"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Translation & Interpretation",
+    "subcategory": "Consecutive Interpreter - Meetings"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Translation & Interpretation",
+    "subcategory": "Sign Language Interpreter - Event"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Translation & Interpretation",
+    "subcategory": "Simultaneous Interpreter - Conference"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Visual Production",
+    "subcategory": "LED Wall Operator"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Visual Production",
+    "subcategory": "Lighting Technician - Stage"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Visual Production",
+    "subcategory": "Projection Mapping Specialist"
+  },
+  {
+    "industry": "Audio & Visual Tech",
+    "category": "Visual Production",
+    "subcategory": "Video Switcher Operator"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Driving Instruction",
+    "subcategory": "Driving Instructor - Advanced Techniques"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Driving Instruction",
+    "subcategory": "Driving Instructor - Learner's Permit"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Customization & Aesthetics",
+    "subcategory": "Auto Upholstery Repair"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Customization & Aesthetics",
+    "subcategory": "Car Wrapper - Vinyl"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Customization & Aesthetics",
+    "subcategory": "Custom Audio Installer - Car"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Customization & Aesthetics",
+    "subcategory": "Paintless Dent Repair Specialist"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Maintenance & Repair",
+    "subcategory": "Auto Detailer - Mobile"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Maintenance & Repair",
+    "subcategory": "Battery Jump Start Service"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Maintenance & Repair",
+    "subcategory": "Mobile Mechanic - Basic Repairs"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Maintenance & Repair",
+    "subcategory": "Tire Change & Repair - Mobile"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Maintenance & Repair",
+    "subcategory": "Windshield Repair Technician - Mobile"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Sales & Advice",
+    "subcategory": "Car Buying Consultant"
+  },
+  {
+    "industry": "Automotive",
+    "category": "Vehicle Sales & Advice",
+    "subcategory": "Used Car Inspector - Pre-Purchase"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Event Crew",
+    "subcategory": "Lighting Crew - Setup"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Event Crew",
+    "subcategory": "Rigging Specialist"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Event Crew",
+    "subcategory": "Set Builder - Event"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Event Crew",
+    "subcategory": "Sound Crew - Setup"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Event Crew",
+    "subcategory": "Stagehand - General"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Hair & Makeup Crew",
+    "subcategory": "Hair Stylist - Film/TV"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Hair & Makeup Crew",
+    "subcategory": "Makeup Artist - Film/TV"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Photography Team",
+    "subcategory": "Digital Tech - Photo Shoot"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Photography Team",
+    "subcategory": "Photo Assistant - Studio"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Production Management",
+    "subcategory": "Production Assistant - Film Set"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Production Management",
+    "subcategory": "Production Coordinator - Event"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Production Management",
+    "subcategory": "Stage Manager - Theater"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Technical Crew",
+    "subcategory": "Camera Assistant (AC)"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Technical Crew",
+    "subcategory": "Gaffer - Film Set"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Technical Crew",
+    "subcategory": "Grip - Film Set"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Technical Crew",
+    "subcategory": "Sound Mixer - Film Set"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Wardrobe & Costume Crew",
+    "subcategory": "Costume Dresser - Theater"
+  },
+  {
+    "industry": "Backstage & Crew",
+    "category": "Wardrobe & Costume Crew",
+    "subcategory": "Wardrobe Assistant - Film Set"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Beauty Education",
+    "subcategory": "Hair Styling Workshop Instructor"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Beauty Education",
+    "subcategory": "Makeup Workshop Instructor"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Beauty Influencer/Content",
+    "subcategory": "Beauty Blogger"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Beauty Influencer/Content",
+    "subcategory": "Beauty Vlogger"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Body Art",
+    "subcategory": "Body Painter"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Body Art",
+    "subcategory": "Face Painter"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Body Art",
+    "subcategory": "Henna Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Eyelash & Eyebrow Services",
+    "subcategory": "Brow Shaping Specialist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Eyelash & Eyebrow Services",
+    "subcategory": "Lash Extension Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Eyelash & Eyebrow Services",
+    "subcategory": "Lash Lift & Tint Specialist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Eyelash & Eyebrow Services",
+    "subcategory": "Microblading Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Barber - Mobile"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Bridal Hair Stylist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Colorist - Hair"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Event Hair Stylist - Braids"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Event Hair Stylist - Updos"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Hair Cutter - Mobile"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Hair Styling",
+    "subcategory": "Hair Extension Specialist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Airbrush Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Bridal Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Commercial Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Editorial Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Event Makeup Artist - Glam"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Event Makeup Artist - Natural"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Film/TV Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Makeup Artistry",
+    "subcategory": "Special Effects (SFX) Makeup Artist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Nail Care",
+    "subcategory": "Manicurist - Mobile"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Nail Care",
+    "subcategory": "Nail Artist - Sculpted Nails"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Nail Care",
+    "subcategory": "Pedicurist - Mobile"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Skin & Body Care",
+    "subcategory": "Body Painter"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Skin & Body Care",
+    "subcategory": "Esthetician - Facial Specialist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Skin & Body Care",
+    "subcategory": "Esthetician - Waxing Specialist"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Skin & Body Care",
+    "subcategory": "Masseuse - Mobile"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Tattoo Artist",
+    "subcategory": "Blackwork Tattoo"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Tattoo Artist",
+    "subcategory": "Fine Line Tattoo"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Tattoo Artist",
+    "subcategory": "Realism Tattoo"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Tattoo Artist",
+    "subcategory": "Traditional Tattoo"
+  },
+  {
+    "industry": "Beauty",
+    "category": "Tattoo Artist",
+    "subcategory": "Watercolor Tattoo"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Child Development & Education",
+    "subcategory": "Child Tutor - Early Learning"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Child Development & Education",
+    "subcategory": "Special Needs Childcare Provider"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Childcare Services",
+    "subcategory": "After-School Care Provider"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Childcare Services",
+    "subcategory": "Babysitter - Evening"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Childcare Services",
+    "subcategory": "Event Childcare Provider"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Childcare Services",
+    "subcategory": "Nanny - Part-Time"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Eldercare Services",
+    "subcategory": "Meal Preparation - Elderly"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Eldercare Services",
+    "subcategory": "Personal Care Assistant - Elderly"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Eldercare Services",
+    "subcategory": "Respite Care Provider"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Eldercare Services",
+    "subcategory": "Senior Companion - Social Activities"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Eldercare Services",
+    "subcategory": "Transportation for Seniors"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Specialized Support",
+    "subcategory": "Lactation Consultant"
+  },
+  {
+    "industry": "Childcare & Eldercare",
+    "category": "Specialized Support",
+    "subcategory": "Postpartum Doula"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Commercial Cleaning",
+    "subcategory": "Office Cleaner - Daily"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Commercial Cleaning",
+    "subcategory": "Restaurant Kitchen Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Commercial Cleaning",
+    "subcategory": "Retail Store Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Landscaping & Outdoor Maintenance",
+    "subcategory": "Gardener - Planting & Weeding"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Landscaping & Outdoor Maintenance",
+    "subcategory": "Lawn Care Specialist - Mowing"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Landscaping & Outdoor Maintenance",
+    "subcategory": "Tree Trimmer - Small Trees"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Maintenance & Repairs",
+    "subcategory": "Electrical Repair - Light Fixtures"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Maintenance & Repairs",
+    "subcategory": "HVAC Technician - Basic Maintenance"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Maintenance & Repairs",
+    "subcategory": "Handyman Services - General Repairs"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Maintenance & Repairs",
+    "subcategory": "Plumbing Repair - Minor"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Residential Cleaning",
+    "subcategory": "Apartment Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Residential Cleaning",
+    "subcategory": "Deep Cleaner - Home"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Residential Cleaning",
+    "subcategory": "House Cleaner - Regular"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Residential Cleaning",
+    "subcategory": "Move-in/Move-out Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Specialty Cleaning",
+    "subcategory": "Carpet Cleaner - Steam"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Specialty Cleaning",
+    "subcategory": "Post-Construction Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Specialty Cleaning",
+    "subcategory": "Pressure Washer - Exterior"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Specialty Cleaning",
+    "subcategory": "Upholstery Cleaner"
+  },
+  {
+    "industry": "Cleaning & Maintenance",
+    "category": "Specialty Cleaning",
+    "subcategory": "Window Washer - Residential"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Carpentry & Woodwork",
+    "subcategory": "Cabinet Maker - Custom"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Carpentry & Woodwork",
+    "subcategory": "Carpenter - Rough Framing"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Carpentry & Woodwork",
+    "subcategory": "Deck Builder - Residential"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Carpentry & Woodwork",
+    "subcategory": "Finish Carpenter - Trim & Moulding"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Electrical",
+    "subcategory": "Electrician - Commercial Installations"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Electrical",
+    "subcategory": "Electrician - Residential Wiring"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Flooring & Tiling",
+    "subcategory": "Hardwood Floor Installer"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Flooring & Tiling",
+    "subcategory": "Tile Installer - Bathroom"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "General Construction & Handyman",
+    "subcategory": "General Contractor - Small Renovations"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "General Construction & Handyman",
+    "subcategory": "Handyman - Home Assembly"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "HVAC",
+    "subcategory": "HVAC Technician - AC Repair"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "HVAC",
+    "subcategory": "HVAC Technician - Furnace Installation"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Landscaping & Masonry",
+    "subcategory": "Brick Mason - Repair"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Landscaping & Masonry",
+    "subcategory": "Concrete Paving Specialist"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Landscaping & Masonry",
+    "subcategory": "Landscape Designer - Hardscaping"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Painting & Drywall",
+    "subcategory": "Drywall Installer & Finisher"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Painting & Drywall",
+    "subcategory": "Painter - Exterior Commercial"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Painting & Drywall",
+    "subcategory": "Painter - Interior Residential"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Plumbing",
+    "subcategory": "Plumber - New Installations"
+  },
+  {
+    "industry": "Construction & Trades",
+    "category": "Plumbing",
+    "subcategory": "Plumber - Residential Repairs"
+  },
+  {
+    "industry": "Consulting",
+    "category": "Business Consulting",
+    "subcategory": "Management Consultant"
+  },
+  {
+    "industry": "Consulting",
+    "category": "Business Consulting",
+    "subcategory": "Operations Consultant"
+  },
+  {
+    "industry": "Consulting",
+    "category": "Business Consulting",
+    "subcategory": "Startup Advisor"
+  },
+  {
+    "industry": "Consulting",
+    "category": "HR Consulting",
+    "subcategory": "Executive Search"
+  },
+  {
+    "industry": "Consulting",
+    "category": "HR Consulting",
+    "subcategory": "Recruiter"
+  },
+  {
+    "industry": "Consulting",
+    "category": "HR Consulting",
+    "subcategory": "Talent Acquisition"
+  },
+  {
+    "industry": "Consulting",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "English Tutor - Essay Writing"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "History Tutor - College Level"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "Math Tutor - K-12"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "Science Tutor - Biology"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "Test Prep Tutor - GRE/GMAT"
+  },
+  {
+    "industry": "Education",
+    "category": "Academic Tutoring",
+    "subcategory": "Test Prep Tutor - SAT/ACT"
+  },
+  {
+    "industry": "Education",
+    "category": "Curriculum & Content Development",
+    "subcategory": "Curriculum Designer"
+  },
+  {
+    "industry": "Education",
+    "category": "Curriculum & Content Development",
+    "subcategory": "E-learning Developer"
+  },
+  {
+    "industry": "Education",
+    "category": "Curriculum & Content Development",
+    "subcategory": "Educational Content Writer"
+  },
+  {
+    "industry": "Education",
+    "category": "Language Instruction",
+    "subcategory": "English Language Teacher (ESL)"
+  },
+  {
+    "industry": "Education",
+    "category": "Language Instruction",
+    "subcategory": "French Language Tutor"
+  },
+  {
+    "industry": "Education",
+    "category": "Language Instruction",
+    "subcategory": "Mandarin Chinese Tutor"
+  },
+  {
+    "industry": "Education",
+    "category": "Language Instruction",
+    "subcategory": "Spanish Language Tutor"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Dance Instructor - Ballet"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Drawing Instructor - Digital"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Guitar Instructor - Acoustic"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Painting Instructor - Oil"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Piano Instructor - Beginner"
+  },
+  {
+    "industry": "Education",
+    "category": "Music & Arts Education",
+    "subcategory": "Vocal Coach - Pop"
+  },
+  {
+    "industry": "Education",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Education",
+    "category": "Professional Development",
+    "subcategory": "Career Coach"
+  },
+  {
+    "industry": "Education",
+    "category": "Professional Development",
+    "subcategory": "Interview Prep Coach"
+  },
+  {
+    "industry": "Education",
+    "category": "Professional Development",
+    "subcategory": "Public Speaking Coach"
+  },
+  {
+    "industry": "Education",
+    "category": "Special Education",
+    "subcategory": "Learning Disability Specialist"
+  },
+  {
+    "industry": "Education",
+    "category": "Special Education",
+    "subcategory": "Special Education Tutor"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Content Creation",
+    "subcategory": "Podcaster"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Content Creation",
+    "subcategory": "Streamer - Gaming"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Content Creation",
+    "subcategory": "Streamer - Lifestyle"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Content Creation",
+    "subcategory": "TikTok Creator"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Content Creation",
+    "subcategory": "Youtuber - Creator"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Belly Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Break Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "K-Pop Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Latin Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Pole Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Reggaeton Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Tap Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Dancer",
+    "subcategory": "Twerk Dancer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Event Staff",
+    "subcategory": "Brand Ambassador"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Event Staff",
+    "subcategory": "Event Greeter"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Event Staff",
+    "subcategory": "Event Host/MC"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Event Staff",
+    "subcategory": "Promotional Model"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Actor - Film/TV"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Actor - Stage"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Character Actor"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Circus Act - Acrobat"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Circus Act - Aerialist"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Circus Act - Fire Performer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Circus Act - Juggler"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Circus Act - Stilt Walker"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Comedian - Stand-up"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Dancer - Ballet"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Dancer - Ballroom"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Dancer - Contemporary"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Dancer - Ethnic/Cultural"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Dancer - Hip Hop"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Illusionist"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Improvisational Actor"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Magician"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Mascot Performer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Ventriloquist"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Performers",
+    "subcategory": "Voice Actor"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Balloon Twister"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Caricature Artist"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Face Painter"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Fortune Teller/Psychic"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Game Show Host"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Puppeteer"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Quiz Master"
+  },
+  {
+    "industry": "Entertainment",
+    "category": "Specialty Entertainment",
+    "subcategory": "Tattoo Artist - Temporary"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Bartender - Mobile"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Cake Designer - Wedding"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Caterer - Large Events"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Caterer - Small Events"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Mixologist - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Pastry Chef - Event Desserts"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Private Chef - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Catering & Bar Services",
+    "subcategory": "Wait Staff - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "DJ Services",
+    "subcategory": "Sound & DJ Package"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Entertainment & Talent Booking",
+    "subcategory": "Entertainment Agent - Performers"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Entertainment & Talent Booking",
+    "subcategory": "Talent Booker - Musicians"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Entertainment & Talent Booking",
+    "subcategory": "Talent Booker - Speakers"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Entertainment Booking",
+    "subcategory": "Artist Manager"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Entertainment Booking",
+    "subcategory": "Talent Booker"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Balloon Artist - Event Decor"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Event Decorator"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Floral Designer - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Lighting Designer - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Prop & Set Designer - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Design & Decor",
+    "subcategory": "Table Scape Designer"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Corporate Event Planner"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Destination Event Planner"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Festival Organizer"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Non-Profit Event Planner"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Social Event Planner - Anniversaries"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Social Event Planner - Birthdays"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Planning & Management",
+    "subcategory": "Wedding Planner"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Rentals",
+    "subcategory": "Furniture Rental - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Rentals",
+    "subcategory": "Linen Rental - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Rentals",
+    "subcategory": "Tableware Rental - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Rentals",
+    "subcategory": "Tent Rental - Event"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Support Staff",
+    "subcategory": "Coat Check Attendant"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Support Staff",
+    "subcategory": "Event Coordinator"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Support Staff",
+    "subcategory": "Event Usher"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Support Staff",
+    "subcategory": "Registration Staff"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Event Support Staff",
+    "subcategory": "Valet Parking Attendant"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Venue",
+    "subcategory": "Venue Finder"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Venue",
+    "subcategory": "Venue Manager"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Virtual & Hybrid Events",
+    "subcategory": "Hybrid Event Technician"
+  },
+  {
+    "industry": "Events & Planning",
+    "category": "Virtual & Hybrid Events",
+    "subcategory": "Virtual Event Producer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Accessory Designer - Bags"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Accessory Designer - Jewelry"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Costume Designer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Couture Dressmaker"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Fashion Designer - Childrenswear"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Fashion Designer - Menswear"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Fashion Designer - Womenswear"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Footwear Designer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Pattern Maker"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Seamstress/Tailor - Alterations"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Seamstress/Tailor - Custom"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Design & Creation",
+    "subcategory": "Textile Designer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Fashion Blogger/Writer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Fashion E-commerce Specialist"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Fashion Illustrator"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Fashion Marketing Specialist"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Fashion Publicist"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Merchandiser - Fashion"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Brand Services",
+    "subcategory": "Technical Designer - Apparel"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Events",
+    "subcategory": "Backstage Dresser"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Events",
+    "subcategory": "Fashion Show Producer"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Fashion Events",
+    "subcategory": "Runway Coordinator"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Fashion Model - Commercial"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Fashion Model - Editorial"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Fashion Model - Runway"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Fit Model"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Plus-Size Model"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Modeling & Presentation",
+    "subcategory": "Showroom Model"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Costume Stylist - Performance"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Creative Director - Fashion Shoot"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Fashion Stylist - Commercial"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Fashion Stylist - Editorial"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Fashion Stylist - Personal"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Styling & Creative Direction",
+    "subcategory": "Wardrobe Stylist - Film/TV"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Tailor",
+    "subcategory": "Alterations Specialist"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Tailor",
+    "subcategory": "Bespoke Tailor"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Tailor",
+    "subcategory": "Wedding Dress Tailor"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Vintage",
+    "subcategory": "Thrift Stylist"
+  },
+  {
+    "industry": "Fashion",
+    "category": "Vintage",
+    "subcategory": "Vintage Curator"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Accounting & Auditing",
+    "subcategory": "Accountant - Forensic"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Accounting & Auditing",
+    "subcategory": "Auditor - Internal Controls"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Bookkeeping & Payroll",
+    "subcategory": "Bookkeeper - Small Business"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Bookkeeping & Payroll",
+    "subcategory": "Payroll Specialist - Freelance"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Consulting",
+    "subcategory": "Business Loan Consultant"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Consulting",
+    "subcategory": "Startup Financial Advisor"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Planning & Analysis",
+    "subcategory": "Budgeting Consultant - Personal"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Planning & Analysis",
+    "subcategory": "Financial Analyst - Business Forecasting"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Planning & Analysis",
+    "subcategory": "Financial Planner - Personal"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Financial Planning & Analysis",
+    "subcategory": "Investment Advisor - Beginner"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Tax Services",
+    "subcategory": "Tax Consultant - Specialized"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Tax Services",
+    "subcategory": "Tax Preparer - Personal"
+  },
+  {
+    "industry": "Finance & Accounting",
+    "category": "Tax Services",
+    "subcategory": "Tax Preparer - Small Business"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Dance Fitness",
+    "subcategory": "Barre Instructor"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Dance Fitness",
+    "subcategory": "Zumba Instructor"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Acupuncturist"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Life Coach - Wellness"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Massage Therapist - Deep Tissue"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Massage Therapist - Swedish"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Reiki Practitioner"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Holistic Wellness",
+    "subcategory": "Sleep Coach"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Martial Arts",
+    "subcategory": "Boxing Coach"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Martial Arts",
+    "subcategory": "Jiu Jitsu Instructor"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Martial Arts",
+    "subcategory": "MMA Trainer"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Meditation Guide"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Pilates Instructor - Mat"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Pilates Instructor - Reformer"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Tai Chi Instructor"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Yoga Instructor - Hatha"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Yoga Instructor - Prenatal"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Mind-Body Practices",
+    "subcategory": "Yoga Instructor - Vinyasa"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Nutritional Guidance",
+    "subcategory": "Dietitian - Clinical"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Nutritional Guidance",
+    "subcategory": "Meal Prep Coach"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Nutritional Guidance",
+    "subcategory": "Nutritionist - Sports Performance"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Nutritional Guidance",
+    "subcategory": "Nutritionist - Weight Management"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Group Fitness Instructor - HIIT"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Group Fitness Instructor - Spinning"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Group Fitness Instructor - Zumba"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Personal Trainer - Functional Fitness"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Personal Trainer - Online"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Personal Trainer - Strength Training"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Personal Training",
+    "subcategory": "Personal Trainer - Weight Loss"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Specialized Fitness",
+    "subcategory": "Dance Instructor - Fitness"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Specialized Fitness",
+    "subcategory": "Martial Arts Instructor"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Specialized Fitness",
+    "subcategory": "Sports Coach - Basketball"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Specialized Fitness",
+    "subcategory": "Sports Coach - Soccer"
+  },
+  {
+    "industry": "Fitness & Wellness",
+    "category": "Specialized Fitness",
+    "subcategory": "Swimming Instructor"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Baker",
+    "subcategory": "Artisan Bread Baker"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Baker",
+    "subcategory": "Cake Decorator"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Baker",
+    "subcategory": "Pastry Baker"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Beverage Services",
+    "subcategory": "Barista - Mobile Espresso Bar"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Beverage Services",
+    "subcategory": "Bartender - Private Events"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Beverage Services",
+    "subcategory": "Mixologist - Craft Cocktails"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Beverage Services",
+    "subcategory": "Wine Steward/Sommelier - Event"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Baking Specialist - Gluten-Free"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Cake Decorator - Specialty"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Caterer - Cocktail Receptions"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Caterer - Office Lunches"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Dietary Specific Chef - Keto"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Dietary Specific Chef - Vegan"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Pastry Chef - Custom Orders"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Private Chef - Daily Meals"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Culinary Professionals",
+    "subcategory": "Private Chef - Dinner Parties"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food & Drink Education",
+    "subcategory": "Baking Instructor - Group"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food & Drink Education",
+    "subcategory": "Cocktail Making Instructor"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food & Drink Education",
+    "subcategory": "Cooking Instructor - Private"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food & Drink Education",
+    "subcategory": "Wine Tasting Host"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Content & Media",
+    "subcategory": "Culinary Video Producer"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Content & Media",
+    "subcategory": "Food Blogger/Writer"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Content & Media",
+    "subcategory": "Food Photographer"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Content & Media",
+    "subcategory": "Food Stylist"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Content & Media",
+    "subcategory": "Recipe Developer"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Product Development",
+    "subcategory": "Food Scientist Consultant"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Product Development",
+    "subcategory": "Kitchen Consultant"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Product Development",
+    "subcategory": "Menu Designer"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Truck",
+    "subcategory": "Food Truck Operator"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Food Truck",
+    "subcategory": "Mobile Kitchen"
+  },
+  {
+    "industry": "Food & Beverage",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Administration & Support",
+    "subcategory": "Healthcare Virtual Assistant"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Administration & Support",
+    "subcategory": "Medical Biller"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Administration & Support",
+    "subcategory": "Medical Coder"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Administration & Support",
+    "subcategory": "Medical Transcriptionist"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Direct Patient Care",
+    "subcategory": "Licensed Practical Nurse (LPN) - Private Duty"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Direct Patient Care",
+    "subcategory": "Medical Assistant - Mobile Services"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Direct Patient Care",
+    "subcategory": "Phlebotomist - Mobile"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Direct Patient Care",
+    "subcategory": "Registered Nurse (RN) - Home Care"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Mental & Behavioral Health",
+    "subcategory": "Counselor - Online Therapy"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Mental & Behavioral Health",
+    "subcategory": "Life Coach - Mental Wellness"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Mental & Behavioral Health",
+    "subcategory": "Therapist - Cognitive Behavioral Therapy"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Therapy & Rehabilitation",
+    "subcategory": "Massage Therapist - Medical"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Therapy & Rehabilitation",
+    "subcategory": "Occupational Therapist - Pediatric"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Therapy & Rehabilitation",
+    "subcategory": "Physical Therapist - Home Visits"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Therapy & Rehabilitation",
+    "subcategory": "Speech-Language Pathologist - Telehealth"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Wellness & Alternative Medicine",
+    "subcategory": "Acupuncturist - Mobile"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Wellness & Alternative Medicine",
+    "subcategory": "Dietitian - Sports & Performance"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Wellness & Alternative Medicine",
+    "subcategory": "Holistic Health Coach"
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Wellness & Alternative Medicine",
+    "subcategory": "Nutritionist - Clinical"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Landscaping",
+    "subcategory": "Garden Designer"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Landscaping",
+    "subcategory": "Lawn Care"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Landscaping",
+    "subcategory": "Tree Service"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Moving",
+    "subcategory": "Furniture Assembly"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Moving",
+    "subcategory": "Local Mover"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Moving",
+    "subcategory": "Long Distance Mover"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Painting",
+    "subcategory": "Exterior Painter"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Painting",
+    "subcategory": "House Painter"
+  },
+  {
+    "industry": "Home Services",
+    "category": "Painting",
+    "subcategory": "Interior Painter"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Consultation",
+    "subcategory": "Contract Law Consultant"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Consultation",
+    "subcategory": "Corporate Legal Consultant"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Consultation",
+    "subcategory": "Family Law Consultant"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Consultation",
+    "subcategory": "Intellectual Property Consultant"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Documentation",
+    "subcategory": "Contract Review Specialist"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Documentation",
+    "subcategory": "Legal Document Preparer"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Documentation",
+    "subcategory": "Legal Research Assistant"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Documentation",
+    "subcategory": "Paralegal Support - Remote"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Education & Content",
+    "subcategory": "Legal Content Writer"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Education & Content",
+    "subcategory": "Legal Tutor - LSAT Prep"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Support Services",
+    "subcategory": "Legal Proofreader"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Support Services",
+    "subcategory": "Legal Transcriptionist"
+  },
+  {
+    "industry": "Legal",
+    "category": "Legal Support Services",
+    "subcategory": "Legal Translator"
+  },
+  {
+    "industry": "Legal",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Legal",
+    "category": "Process Serving & Investigation",
+    "subcategory": "Private Investigator"
+  },
+  {
+    "industry": "Legal",
+    "category": "Process Serving & Investigation",
+    "subcategory": "Process Server"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Automotive & Marine",
+    "subcategory": "Luxury Car Detailer - Mobile"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Automotive & Marine",
+    "subcategory": "Yacht Captain - Private"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Concierge & Personal Assistance",
+    "subcategory": "Executive Assistant - VIP"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Concierge & Personal Assistance",
+    "subcategory": "Lifestyle Manager"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Concierge & Personal Assistance",
+    "subcategory": "Personal Concierge"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Event & Entertainment Planning",
+    "subcategory": "Celebrity Booker - Appearances"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Event & Entertainment Planning",
+    "subcategory": "Luxury Event Planner"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Event & Entertainment Planning",
+    "subcategory": "VIP Service Provider - Clubs/Venues"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Personal Styling & Beauty",
+    "subcategory": "Image Consultant - Executive"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Personal Styling & Beauty",
+    "subcategory": "Personal Shopper - High-End Fashion"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Personal Styling & Beauty",
+    "subcategory": "Private Hair Stylist - On-Demand"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Personal Styling & Beauty",
+    "subcategory": "Private Makeup Artist - On-Demand"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Private Household Staff",
+    "subcategory": "House Manager - Estate"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Private Household Staff",
+    "subcategory": "Personal Security Guard - VIP"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Private Household Staff",
+    "subcategory": "Private Chef - Live-in"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Travel & Experiences",
+    "subcategory": "Luxury Travel Planner"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Travel & Experiences",
+    "subcategory": "Private Tour Guide - Specialized"
+  },
+  {
+    "industry": "Luxury & VIP",
+    "category": "Travel & Experiences",
+    "subcategory": "Yacht Charter Specialist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Brand Strategist",
+    "subcategory": "Corporate Brand Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Brand Strategist",
+    "subcategory": "Personal Brand Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Blog Writer - SEO Optimized"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Copywriter - Ad Campaigns"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Copywriter - Website Content"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Graphic Designer - Marketing Collateral"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Infographic Designer"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Content Creation for Marketing",
+    "subcategory": "Video Content Creator - Marketing"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Affiliate Marketing Manager"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Content Marketing Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Conversion Rate Optimization (CRO) Specialist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Email Marketing Specialist - HubSpot"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "PPC Specialist - Social Media Ads"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "SEM Specialist - Google Ads"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "SEO Specialist - Off-Page"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "SEO Specialist - On-Page"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Social Media Manager - Facebook"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Digital Marketing",
+    "subcategory": "Social Media Manager - Instagram"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Event Marketing",
+    "subcategory": "Trade Show Booth Designer"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Influencer Marketing",
+    "subcategory": "Creator Partnership Manager"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Influencer Marketing",
+    "subcategory": "Influencer Outreach Specialist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Public Relations",
+    "subcategory": "Crisis Communication Specialist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Public Relations",
+    "subcategory": "PR Specialist - Media Outreach"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Public Relations",
+    "subcategory": "Press Release Writer"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Strategy & Analytics",
+    "subcategory": "Brand Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Strategy & Analytics",
+    "subcategory": "Growth Hacker"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Strategy & Analytics",
+    "subcategory": "Market Researcher"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Strategy & Analytics",
+    "subcategory": "Marketing Data Analyst"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Strategy & Analytics",
+    "subcategory": "Marketing Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Traditional Advertising",
+    "subcategory": "Print Ad Designer"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Traditional Advertising",
+    "subcategory": "Radio Ad Producer"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Traditional Advertising",
+    "subcategory": "TV Commercial Scriptwriter"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Video Marketing",
+    "subcategory": "Reels Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Video Marketing",
+    "subcategory": "TikTok Strategist"
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "category": "Video Marketing",
+    "subcategory": "YouTube Strategist"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Afrobeats DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Country DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "EDM DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Kids Party DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Pop DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "R&B DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Reggaeton DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Silent Disco DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Throwback DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "DJ",
+    "subcategory": "Vinyl DJ"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Artist Manager"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Booking Agent"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Lyric Video Creator"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Merchandise Designer"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Music Legal Counsel"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Music Marketing Specialist"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Music Publicist"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Industry Services",
+    "subcategory": "Tour Manager"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Drum Teacher"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Guitar Teacher"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Music Production Tutor"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Music Theory Tutor"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Piano Teacher"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Instruction",
+    "subcategory": "Vocal Coach"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Audio Engineer"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Beat Maker"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Composer - Commercials"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Composer - Film Score"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Composer - Video Game"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Mastering Engineer"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Mixing Engineer"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Record Producer"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Bass"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Drums"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Guitar"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Piano/Keys"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Strings"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Session Musician - Vocals"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Songwriter - Lyrics"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Songwriter - Melody"
+  },
+  {
+    "industry": "Music",
+    "category": "Music Production",
+    "subcategory": "Sound Designer"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Acoustic Guitarist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Bassist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Brass Band"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Cellist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Choir/Chorus"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Clarinetist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Cover Band - Jazz/Blues"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Cover Band - Pop/Rock"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "DJ - Club/Events"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "DJ - Corporate Events"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "DJ - Mobile"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "DJ - Wedding"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Drummer"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Electric Guitarist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Flutist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Harpist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Keyboardist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Orchestra"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Percussionist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Pianist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Saxophonist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "String Quartet"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Tribute Band"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Trombonist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Trumpeter"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Violinist"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Classical/Opera"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Country"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Hip Hop"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Jazz"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Pop"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - R&B/Soul"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Vocalist - Rock"
+  },
+  {
+    "industry": "Music",
+    "category": "Musicians & Bands",
+    "subcategory": "Wedding Band"
+  },
+  {
+    "industry": "Music",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Communications & Advocacy",
+    "subcategory": "Advocacy Campaign Manager"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Communications & Advocacy",
+    "subcategory": "Non-Profit Marketing Specialist"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Communications & Advocacy",
+    "subcategory": "Social Impact Content Writer"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Community Engagement",
+    "subcategory": "Community Outreach Coordinator"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Community Engagement",
+    "subcategory": "Workshop Facilitator - Social Issues"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Consulting & Strategy",
+    "subcategory": "Impact Measurement Specialist"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Consulting & Strategy",
+    "subcategory": "Non-Profit Strategic Consultant"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Fundraising & Development",
+    "subcategory": "Event Planner - Charity Gala"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Fundraising & Development",
+    "subcategory": "Fundraising Consultant - Individual Giving"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Fundraising & Development",
+    "subcategory": "Grant Writer - Non-Profit"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Program Management & Operations",
+    "subcategory": "Non-Profit Program Manager"
+  },
+  {
+    "industry": "Nonprofit & Social Impact",
+    "category": "Program Management & Operations",
+    "subcategory": "Volunteer Coordinator"
+  },
+  {
+    "industry": "Other",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Care",
+    "subcategory": "Dog Walker - Daily"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Care",
+    "subcategory": "Exotic Pet Sitter"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Care",
+    "subcategory": "Pet Sitter - In Home Cat"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Care",
+    "subcategory": "Pet Sitter - In Home Dog"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Grooming",
+    "subcategory": "Cat Groomer - Home Visit"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Grooming",
+    "subcategory": "Dog Groomer - Mobile"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Health & Wellness",
+    "subcategory": "Pet Masseuse"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Health & Wellness",
+    "subcategory": "Pet Nutrition Consultant"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Photography & Art",
+    "subcategory": "Pet Photographer"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Photography & Art",
+    "subcategory": "Pet Portrait Artist"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Training",
+    "subcategory": "Cat Behaviorist"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Training",
+    "subcategory": "Dog Trainer - Behavior Modification"
+  },
+  {
+    "industry": "Pet Services",
+    "category": "Pet Training",
+    "subcategory": "Dog Trainer - Puppy Obedience"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Architectural Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Automotive Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Fashion Photographer - Commercial"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Fashion Photographer - Editorial"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Food Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Industrial Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Jewelry Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Product Photographer - E-commerce"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Product Photographer - Studio"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Real Estate Photographer - Exteriors"
+  },
+  {
+    "industry": "Photography",
+    "category": "Commercial Photography",
+    "subcategory": "Real Estate Photographer - Interiors"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Baby Shower Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Birthday Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Festival Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Graduation Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Nightclub Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photographer",
+    "subcategory": "Quincea\u00f1era Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Birthday Party Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Concert Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Corporate Event Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Engagement Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Festival Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Graduation Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Live Performance Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Sports Event Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Event Photography",
+    "subcategory": "Wedding Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Lifestyle Photographer",
+    "subcategory": "Nature Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Lifestyle Photographer",
+    "subcategory": "Pet Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Lifestyle Photographer",
+    "subcategory": "Street Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Lifestyle Photographer",
+    "subcategory": "Travel Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Photography",
+    "category": "Photo Booth Services",
+    "subcategory": "360 Photo Booth"
+  },
+  {
+    "industry": "Photography",
+    "category": "Photo Booth Services",
+    "subcategory": "Roaming Photo Booth"
+  },
+  {
+    "industry": "Photography",
+    "category": "Photo Booth Services",
+    "subcategory": "Traditional Photo Booth"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Children's Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Family Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Headshot Photographer - Actor/Model"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Headshot Photographer - Corporate"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Lifestyle Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Maternity Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Newborn Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Personal Branding Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Portrait & Lifestyle",
+    "subcategory": "Pet Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Photo Editor - Commercial"
+  },
+  {
+    "industry": "Photography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Photo Editor - Event Photos"
+  },
+  {
+    "industry": "Photography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Photo Manipulator"
+  },
+  {
+    "industry": "Photography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Photo Retoucher - Portrait"
+  },
+  {
+    "industry": "Photography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Photo Retoucher - Product"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Astrophotographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Drone Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Fine Art Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Landscape Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Street Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Travel Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Underwater Photographer"
+  },
+  {
+    "industry": "Photography",
+    "category": "Specialty Photography",
+    "subcategory": "Wildlife Photographer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Appraisal & Inspection",
+    "subcategory": "Commercial Building Inspector"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Appraisal & Inspection",
+    "subcategory": "Home Inspector"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Appraisal & Inspection",
+    "subcategory": "Property Appraiser"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Management",
+    "subcategory": "Commercial Property Manager"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Management",
+    "subcategory": "Residential Property Manager"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Management",
+    "subcategory": "Vacancy Listing Specialist"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "3D Architectural Visualizer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Drone Imagery Specialist - Real Estate"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Floor Plan Designer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Home Stager"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Real Estate Photographer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Real Estate Videographer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Property Services",
+    "subcategory": "Virtual Staging Designer"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Agents & Brokers",
+    "subcategory": "Commercial Real Estate Agent"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Agents & Brokers",
+    "subcategory": "Property Broker"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Agents & Brokers",
+    "subcategory": "Rental Agent"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Agents & Brokers",
+    "subcategory": "Residential Real Estate Agent"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Marketing & Support",
+    "subcategory": "Real Estate Copywriter"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Marketing & Support",
+    "subcategory": "Real Estate Social Media Manager"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Marketing & Support",
+    "subcategory": "Real Estate Transaction Coordinator"
+  },
+  {
+    "industry": "Real Estate",
+    "category": "Real Estate Marketing & Support",
+    "subcategory": "Real Estate Virtual Assistant"
+  },
+  {
+    "industry": "Security",
+    "category": "Commercial & Residential Security",
+    "subcategory": "Residential Security Patrol"
+  },
+  {
+    "industry": "Security",
+    "category": "Commercial & Residential Security",
+    "subcategory": "Security Guard - Office Building"
+  },
+  {
+    "industry": "Security",
+    "category": "Commercial & Residential Security",
+    "subcategory": "Security Guard - Retail Store"
+  },
+  {
+    "industry": "Security",
+    "category": "Event Security",
+    "subcategory": "Crowd Control Specialist"
+  },
+  {
+    "industry": "Security",
+    "category": "Event Security",
+    "subcategory": "Event Security Guard - General"
+  },
+  {
+    "industry": "Security",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Security",
+    "category": "Personal Security",
+    "subcategory": "Bodyguard - VIP"
+  },
+  {
+    "industry": "Security",
+    "category": "Personal Security",
+    "subcategory": "Personal Security Detail - Event"
+  },
+  {
+    "industry": "Security",
+    "category": "Security Consulting",
+    "subcategory": "Cybersecurity Consultant"
+  },
+  {
+    "industry": "Security",
+    "category": "Security Consulting",
+    "subcategory": "Security Risk Assessor"
+  },
+  {
+    "industry": "Security",
+    "category": "Technical Security",
+    "subcategory": "Access Control System Specialist"
+  },
+  {
+    "industry": "Security",
+    "category": "Technical Security",
+    "subcategory": "Alarm System Installation"
+  },
+  {
+    "industry": "Security",
+    "category": "Technical Security",
+    "subcategory": "CCTV Installation & Maintenance"
+  },
+  {
+    "industry": "Sports",
+    "category": "Event & Operations",
+    "subcategory": "Referee/Umpire - Local Leagues"
+  },
+  {
+    "industry": "Sports",
+    "category": "Event & Operations",
+    "subcategory": "Sports Event Organizer"
+  },
+  {
+    "industry": "Sports",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Baseball Coach - Pitching Specialist"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Basketball Coach - Skill Development"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Golf Instructor - Swing Analysis"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Personal Trainer - Sports Specific"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Soccer Coach - Youth"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Swimming Coach - Competitive"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Coaching",
+    "subcategory": "Tennis Instructor - Beginner"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Media & Content",
+    "subcategory": "Sports Commentator/Analyst"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Media & Content",
+    "subcategory": "Sports Journalist/Writer"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Media & Content",
+    "subcategory": "Sports Photographer"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Media & Content",
+    "subcategory": "Sports Videographer"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Performance & Wellness",
+    "subcategory": "Sports Massage Therapist"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Performance & Wellness",
+    "subcategory": "Sports Nutritionist"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Performance & Wellness",
+    "subcategory": "Sports Psychologist"
+  },
+  {
+    "industry": "Sports",
+    "category": "Sports Performance & Wellness",
+    "subcategory": "Strength & Conditioning Coach"
+  },
+  {
+    "industry": "Technology",
+    "category": "AI Specialist",
+    "subcategory": "AI Prompt Engineer"
+  },
+  {
+    "industry": "Technology",
+    "category": "AI Specialist",
+    "subcategory": "AI Trainer"
+  },
+  {
+    "industry": "Technology",
+    "category": "AI Specialist",
+    "subcategory": "Chatbot Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Blockchain & Crypto",
+    "subcategory": "Blockchain Developer - Solidity"
+  },
+  {
+    "industry": "Technology",
+    "category": "Blockchain & Crypto",
+    "subcategory": "NFT Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Content & Technical Writing",
+    "subcategory": "Product Content Writer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Content & Technical Writing",
+    "subcategory": "Technical Writer - Software Documentation"
+  },
+  {
+    "industry": "Technology",
+    "category": "Data Science & AI",
+    "subcategory": "AI/ML Engineer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Data Science & AI",
+    "subcategory": "Big Data Engineer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Data Science & AI",
+    "subcategory": "Business Intelligence Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Data Science & AI",
+    "subcategory": "Data Analyst"
+  },
+  {
+    "industry": "Technology",
+    "category": "Data Science & AI",
+    "subcategory": "Data Scientist - Machine Learning"
+  },
+  {
+    "industry": "Technology",
+    "category": "Game Developer",
+    "subcategory": "Mobile Game Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Game Developer",
+    "subcategory": "Unity Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Game Developer",
+    "subcategory": "Unreal Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "Cloud Engineer - AWS"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "Cloud Engineer - Azure"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "Cybersecurity Analyst"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "Database Administrator"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "DevOps Engineer"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "IT Support Specialist"
+  },
+  {
+    "industry": "Technology",
+    "category": "IT & Systems",
+    "subcategory": "Network Administrator"
+  },
+  {
+    "industry": "Technology",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Technology",
+    "category": "Project Management & QA",
+    "subcategory": "IT Project Manager"
+  },
+  {
+    "industry": "Technology",
+    "category": "Project Management & QA",
+    "subcategory": "QA Engineer - Automation Testing"
+  },
+  {
+    "industry": "Technology",
+    "category": "Project Management & QA",
+    "subcategory": "QA Engineer - Manual Testing"
+  },
+  {
+    "industry": "Technology",
+    "category": "Project Management & QA",
+    "subcategory": "Scrum Master"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "API Developer"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Desktop Application Developer (Python)"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Full-Stack Developer - MERN"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Game Developer - Unity"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Game Developer - Unreal Engine"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Mobile App Developer - Android Kotlin"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Mobile App Developer - React Native"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Mobile App Developer - iOS Swift"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Web Developer - Backend Node.js"
+  },
+  {
+    "industry": "Technology",
+    "category": "Software Development",
+    "subcategory": "Web Developer - Frontend React"
+  },
+  {
+    "industry": "Technology",
+    "category": "UI/UX Design",
+    "subcategory": "Interaction Designer"
+  },
+  {
+    "industry": "Technology",
+    "category": "UI/UX Design",
+    "subcategory": "UI Designer"
+  },
+  {
+    "industry": "Technology",
+    "category": "UI/UX Design",
+    "subcategory": "UX Designer"
+  },
+  {
+    "industry": "Technology",
+    "category": "UI/UX Design",
+    "subcategory": "UX Researcher"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Chauffeur & Driving Services",
+    "subcategory": "Airport Transfer Driver - Luxury"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Chauffeur & Driving Services",
+    "subcategory": "Event Transportation Driver"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Chauffeur & Driving Services",
+    "subcategory": "Personal Driver - Errands"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Chauffeur & Driving Services",
+    "subcategory": "Private Chauffeur - Executive"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Delivery & Logistics",
+    "subcategory": "Courier Service - Documents"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Delivery & Logistics",
+    "subcategory": "Food Delivery Driver - Restaurant"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Delivery & Logistics",
+    "subcategory": "Local Delivery Driver - Packages"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Delivery & Logistics",
+    "subcategory": "White Glove Delivery Specialist"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Logistics & Planning",
+    "subcategory": "Fleet Management Consultant"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Logistics & Planning",
+    "subcategory": "Logistics Coordinator - Event"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Specialized Transport",
+    "subcategory": "Boat Transport Specialist"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Specialized Transport",
+    "subcategory": "Furniture Assembler & Mover"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Specialized Transport",
+    "subcategory": "Heavy Equipment Operator - Moving"
+  },
+  {
+    "industry": "Transportation",
+    "category": "Specialized Transport",
+    "subcategory": "Moving Service - Small Scale"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Accommodation Services",
+    "subcategory": "Hotel Consultant - Boutique"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Accommodation Services",
+    "subcategory": "Vacation Rental Manager"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Specialized Travel Services",
+    "subcategory": "Language Tutor for Travelers"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Specialized Travel Services",
+    "subcategory": "Travel Blogger/Vlogger"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Specialized Travel Services",
+    "subcategory": "Travel Photographer"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Specialized Travel Services",
+    "subcategory": "Travel Videographer"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Tour Guiding",
+    "subcategory": "Food Tour Guide"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Tour Guiding",
+    "subcategory": "Historical Tour Guide"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Tour Guiding",
+    "subcategory": "Local City Tour Guide"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Tour Guiding",
+    "subcategory": "Nature & Wildlife Guide"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Travel Planning",
+    "subcategory": "Adventure Travel Specialist"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Travel Planning",
+    "subcategory": "Corporate Travel Agent"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Travel Planning",
+    "subcategory": "Honeymoon Planner"
+  },
+  {
+    "industry": "Travel & Tourism",
+    "category": "Travel Planning",
+    "subcategory": "Vacation Planner - Family"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Commercial Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Corporate Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Explainer Video Producer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Product Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Real Estate Videographer - Property Tours"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Testimonial Video Producer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial & Corporate",
+    "subcategory": "Training Video Producer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial Videographer",
+    "subcategory": "Brand Video Producer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial Videographer",
+    "subcategory": "Product Demo Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Commercial Videographer",
+    "subcategory": "Testimonial Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Creative & Artistic",
+    "subcategory": "Documentary Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Creative & Artistic",
+    "subcategory": "Music Video Cameraman"
+  },
+  {
+    "industry": "Videography",
+    "category": "Creative & Artistic",
+    "subcategory": "Music Video Director"
+  },
+  {
+    "industry": "Videography",
+    "category": "Creative & Artistic",
+    "subcategory": "Short Film Cinematographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Creative & Artistic",
+    "subcategory": "Travel Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Anniversary Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Baby Shower Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Birthday Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Festival Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Graduation Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Nightclub Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videographer",
+    "subcategory": "Quincea\u00f1era Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Birthday Party Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Conference Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Corporate Event Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Event Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Freelance Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Live Performance Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Sports Event Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Event Videography",
+    "subcategory": "Wedding Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Freelance Videographer",
+    "subcategory": "General Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Freelance Videographer",
+    "subcategory": "One-Man Band Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Freelance Videographer",
+    "subcategory": "Run & Gun Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Live Streaming & Production",
+    "subcategory": "Live Stream Operator"
+  },
+  {
+    "industry": "Videography",
+    "category": "Live Streaming & Production",
+    "subcategory": "Multi-Camera Director"
+  },
+  {
+    "industry": "Videography",
+    "category": "Live Streaming & Production",
+    "subcategory": "Virtual Event Producer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Color Grader"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Motion Graphics Designer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Sound Editor - Video"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Title Designer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "VFX Artist"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Video Editor - Commercial"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Video Editor - Social Media"
+  },
+  {
+    "industry": "Videography",
+    "category": "Post-Production & Editing",
+    "subcategory": "Video Editor - Wedding"
+  },
+  {
+    "industry": "Videography",
+    "category": "Pre-Production",
+    "subcategory": "Producer - Video Production"
+  },
+  {
+    "industry": "Videography",
+    "category": "Pre-Production",
+    "subcategory": "Scriptwriter - Video"
+  },
+  {
+    "industry": "Videography",
+    "category": "Pre-Production",
+    "subcategory": "Storyboard Artist"
+  },
+  {
+    "industry": "Videography",
+    "category": "Specialty Videography",
+    "subcategory": "360 Video Specialist"
+  },
+  {
+    "industry": "Videography",
+    "category": "Specialty Videography",
+    "subcategory": "Drone Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Specialty Videography",
+    "subcategory": "Time-Lapse Videographer"
+  },
+  {
+    "industry": "Videography",
+    "category": "Specialty Videography",
+    "subcategory": "Underwater Videographer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Content Writing",
+    "subcategory": "Article Writer - Research Based"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Content Writing",
+    "subcategory": "Blog Post Writer - SEO"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Content Writing",
+    "subcategory": "Product Description Writer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Content Writing",
+    "subcategory": "Website Content Writer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Copywriting",
+    "subcategory": "Ad Copywriter - Social Media"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Copywriting",
+    "subcategory": "Brand Storyteller"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Copywriting",
+    "subcategory": "Email Marketing Copywriter"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Copywriting",
+    "subcategory": "Sales Page Copywriter"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Creative Writing",
+    "subcategory": "Ghostwriter - Fiction Novel"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Creative Writing",
+    "subcategory": "Ghostwriter - Non-Fiction Book"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Creative Writing",
+    "subcategory": "Lyrics Writer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Creative Writing",
+    "subcategory": "Speechwriter"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Editing & Proofreading",
+    "subcategory": "Copy Editor - Manuscript"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Editing & Proofreading",
+    "subcategory": "Developmental Editor - Book"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Editing & Proofreading",
+    "subcategory": "Proofreader - Academic"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Other",
+    "subcategory": "Other"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Publication Services",
+    "subcategory": "Book Cover Designer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Publication Services",
+    "subcategory": "Book Formatting Specialist"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Publication Services",
+    "subcategory": "Publisher - Independent Author Support"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Technical & Specialized Writing",
+    "subcategory": "Academic Writer - Research Papers"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Technical & Specialized Writing",
+    "subcategory": "Grant Writer"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Technical & Specialized Writing",
+    "subcategory": "Technical Writer - Manuals"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Translation & Localization",
+    "subcategory": "Translator - English to Spanish"
+  },
+  {
+    "industry": "Writing & Publishing",
+    "category": "Translation & Localization",
+    "subcategory": "Translator - French to English"
+  }
+]
