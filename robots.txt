@@ -1,0 +1,144 @@
+# OneSocial robots.txt — explicit allow-list strategy.
+# Search + AI engines that drive value are welcomed.
+# SEO-data leeches and aggressive crawlers are denied (and IP-blocked at the edge if they ignore this).
+
+# === Search engines (welcome) ===
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 5
+
+# === Social previews (welcome) ===
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+# === AI answer engines (welcome — drives Answer Engine Optimization) ===
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# === SEO-data leeches & scrapers (blocked) ===
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: SerpstatBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+# Moz/Rogerbot variants — observed hitting the site heavily
+User-agent: moz
+Disallow: /
+
+User-agent: Mozbot
+Disallow: /
+
+# === Default: deny anything not explicitly listed ===
+# Anonymous / unidentified crawlers are blocked. Polite bots will respect this;
+# impolite bots are caught by the edge bot-blocker (blocked_ips table).
+User-agent: *
+Disallow: /
+
+# === Honeypot ===
+# Explicit Disallow for ALL agents (including allow-listed ones above).
+# No human and no polite crawler will ever fetch these URLs. Any request to
+# these paths is treated as a robots.txt-ignoring bot and the source IP is
+# silently added to the blocklist by the honeypot-trap edge function.
+User-agent: *
+Disallow: /internal/
+Disallow: /private-api/
+Disallow: /admin-api/
+Disallow: /wp-admin/
+Disallow: /wp-login
+Disallow: /wp-content/
+Disallow: /phpmyadmin/
+Disallow: /.env
+Disallow: /.git/
+Disallow: /xmlrpc.php
+Disallow: /cgi-bin/
+Disallow: /owa/
+Disallow: /autodiscover/
+
+Sitemap: https://onesocial.ai/sitemap.xml

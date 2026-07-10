@@ -1,0 +1,55 @@
+# OneSocial
+
+> OneSocial is a credibility-first professional marketplace where Professionals find work, Hirers hire vetted talent, Agents represent talent, and Hosts sell event tickets — all unified by the OneScore™ trust metric.
+
+OneSocial replaces guesswork in hiring with a portable reputation score (OneScore) backed by verified jobs, reviews, endorsements, events, and arena challenges. The platform handles contracts, escrow payments via Stripe, messaging, and 8.99% platform-fee escrow on every paid job and ticket.
+
+## Core pages
+
+- [Home](/): Marketplace overview and value proposition.
+- [Find Work](/find-work): Professionals browse open jobs and pitch hirers.
+- [Hire Talent](/hire-talent): Hirers browse vetted professionals by OneScore.
+- [Discover Events](/discover-events): Public event marketplace with ticket sales.
+- [Pricing](/pricing): Plans, fees, and platform pricing.
+- [Features](/features): Full feature breakdown.
+- [OneScore](/onescore): How the OneScore credibility metric works.
+- [Score Calculator](/score-calculator): Estimate your OneScore.
+- [Compare](/compare): OneSocial vs other freelance platforms.
+
+## For each role
+
+- [For Professionals](/for-professionals): How professionals get verified work.
+- [For Hirers](/for-hirers): How hirers find trusted talent.
+- [For Agents](/for-agents): How agents represent and monetize talent.
+- [Pro Membership](/pro): Pro plan with reduced platform fees.
+
+## Trust & methodology
+
+- [Investor Relations](/investor-relations): Investor materials, traction, vision.
+- [OneScore Methodology](/investor-relations/onescore-methodology): Detailed v9 algorithm — 7 weighted KPI buckets summing to 100%.
+- [Score Badge](/score-badge): Embeddable trust badges for portfolios and websites.
+- [Safety & Trust](/safety-trust): Verification, dispute resolution, payment protection.
+
+## Blog (selected)
+
+- [What Is OneScore?](/blog/what-is-onescore): Introduction to the credibility metric.
+- [Portable Badge System](/blog/portable-badge-system): How verified reputation travels with you.
+- [Contracts & Guaranteed Payments](/blog/contracts-guaranteed-payments): How escrow and mutual completion work.
+- [End-to-End Freelance Ecosystem](/blog/end-to-end-freelance-ecosystem): Why a unified platform beats scattered tools.
+- [AI Transforming the Freelance Marketplace](/blog/ai-transforming-freelance-marketplace): VAIA assistant and AI-driven matching.
+
+## Company
+
+- [Careers](/careers): Open roles.
+- [Contact](/contact): Get in touch.
+- [FAQ](/faq): Common questions.
+- [Affiliate Program](/affiliate-program): Earn by referring members.
+
+## Optional
+
+- [Privacy Policy](/privacy-policy)
+- [Terms of Service](/terms-of-service)
+- [SMS Terms](/sms-terms)
+- [Cookie Policy](/cookie-policy)
+- [Accessibility](/accessibility)
+- [Install App](/install): PWA / native install.
