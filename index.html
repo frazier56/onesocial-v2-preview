@@ -1,18 +1,27 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" href="./mark.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="theme-color" content="#FAFAF8" />
-    <title>OneJob — Get hired. Get paid.</title>
-    <meta name="description" content="OneJob: the simplest way for freelancers and small businesses to get hired, get paid in 60 seconds, and build real credibility." />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/onesocial-v2-preview/index-Klq6htcL.js"></script>
-    <link rel="stylesheet" crossorigin href="/onesocial-v2-preview/index-CC9fz44f.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+<head>
+<meta charset="utf-8" />
+<title>OneJob — Get hired. Get paid.</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<link rel="canonical" href="https://www.oneworldlabs.ai/onejob/" />
+<meta name="robots" content="noindex" />
+<script>
+/* LEGACY PATH REDIRECTOR — /onesocial-v2-preview/* -> /onejob/*
+   OneJob's canonical home is www.oneworldlabs.ai/onejob (Jul 25 2026). This path is kept alive
+   ONLY so previously-shared links and printed QR codes keep working. It must never serve a second
+   copy of the app: two builds on two paths silently drift, and Lee hit exactly that — the old path
+   was four builds behind and still showing the pre-restyle contract form.
+   Preserves the sub-path, the query string AND the hash (Supabase returns OAuth tokens in the
+   hash, so dropping it would break Google sign-in on any old bookmark). */
+(function () {
+  var p = location.pathname.replace(/^\/onesocial-v2-preview\/?/, "");
+  location.replace("/onejob/" + p + (location.search || "") + (location.hash || ""));
+})();
+</script>
+</head>
+<body style="font-family:Inter,system-ui,sans-serif;background:#FAFAF8;color:#0B0F1A;text-align:center;padding:64px 24px">
+  <p style="opacity:.7">Taking you to OneJob…</p>
+  <p><a href="https://www.oneworldlabs.ai/onejob/" style="color:#0D9488;font-weight:700">Continue to OneJob</a></p>
+</body>
 </html>
